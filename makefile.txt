@@ -1,0 +1,13 @@
+runserver: server
+			./server
+
+servermake:dofileenc.c
+			gcc -o server dofileenc.c
+
+runclient : client
+			./client
+clientmake: retrieveencfileclient.c
+			gcc -o client retrieveencfileclient.c
+
+clean:
+	rm *.txt.enc 127.0.0.1.*.txt
