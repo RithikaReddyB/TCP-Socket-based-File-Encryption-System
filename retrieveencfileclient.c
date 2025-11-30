@@ -1,9 +1,3 @@
-// ===============================================================================================
-// Assignment 3 submission
-// Name: Darapu Adhithya Shiva Kumar Reddy
-// Roll No:22CS30019
-// Drive Link For Pcap File: https://drive.google.com/drive/folders/1W7BKbTKZimXsz07YDmXKnCOPxh8IJBhn?usp=sharing
-// ===============================================================================================
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
